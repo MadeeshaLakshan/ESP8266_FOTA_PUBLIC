@@ -1,4 +1,10 @@
 {
+  "esp8266": {
     "version": "1.0.1",
-    "bin_url": "https://raw.githubusercontent.com/MadeeshaLakshan/ESP8266_FOTA_PUBLIC/main/FOTA_NodeMcu.ino.bin"
+    "bin_url": "https://example.com/esp8266/firmware.bin"
+  },
+  "esp32": {
+    "version": "1.0.2",
+    "bin_url": "https://example.com/esp32/firmware.bin"
+  }
 }
